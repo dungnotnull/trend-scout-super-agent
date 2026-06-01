@@ -1,0 +1,44 @@
+{
+  "kols": [
+    {
+      "kol_id": "swyx",
+      "display_name": "swyx",
+      "weight": 0.8,
+      "bridge_score": 1.0,
+      "domain_tags": ["ai", "developer experience"],
+      "metadata": { "handle": "@swyx" }
+    },
+    {
+      "kol_id": "kentcdodds",
+      "display_name": "Kent C. Dodds",
+      "weight": 0.7,
+      "bridge_score": 1.0,
+      "domain_tags": ["web", "developer experience"],
+      "metadata": { "handle": "@kentcdodds" }
+    },
+    {
+      "kol_id": "chrismessina",
+      "display_name": "Chris Messina",
+      "weight": 0.65,
+      "bridge_score": 1.0,
+      "domain_tags": ["product", "community"],
+      "metadata": { "handle": "@chrism" }
+    },
+    {
+      "kol_id": "karpathy",
+      "display_name": "Andrej Karpathy",
+      "weight": 0.85,
+      "bridge_score": 1.0,
+      "domain_tags": ["ai", "ml"],
+      "metadata": { "handle": "@karpathy" }
+    },
+    {
+      "kol_id": "bradfitz",
+      "display_name": "Brad Fitzpatrick",
+      "weight": 0.6,
+      "bridge_score": 1.0,
+      "domain_tags": ["infrastructure", "open source"],
+      "metadata": { "handle": "@bradfitz" }
+    }
+  ]
+}

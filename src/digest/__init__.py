@@ -1,0 +1,1 @@
+"""Digest package for TrendScout."""
